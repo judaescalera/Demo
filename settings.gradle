@@ -1,0 +1,3 @@
+include ':DemoLibraryRemote'
+include ':app'
+rootProject.name = "DemoRemoteDependece"
